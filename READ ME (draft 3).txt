@@ -1,0 +1,10 @@
+READ ME (draft 3)
+
+ - made possible to select lines to see which ones get locked and which bounce faster, etc... because old system only showed initial volume which doesn't differentiate between each scaling factor. 
+ - corrected the Raychaudhuri equations
+ - General QOL like grid gen and plot res optimised for my experience
+
+STILL MISSING:
+proper anisotropy equations (using isotropic w/ friedmann shear currently.)
+GPU stuff from draft 2 (working on jax)
+still not sure about the Raychaudhuri equations actually. should probably brush up on that but imma work on manifolds and the shear factor first before trying that. 
