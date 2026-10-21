@@ -1,0 +1,9 @@
+Draft 4 Updates:
+ - Removed isotropic friedmann hubble parameter and replaced it with the formalisation given in 2009 Ashtekar Wilson-Elwing Paper on LQC of Bianchi I models. This means all hubble parameters are now separate from each other depending only on the anisotropy factors. 
+
+Notes / Future notes:
+Ignore the flurry of error messages
+Fix the bug finders
+Derive the rest
+Make a research question and hypothesis and explain what code does
+
